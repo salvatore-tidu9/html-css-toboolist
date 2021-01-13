@@ -164,3 +164,25 @@ h3 {
   padding: 7px;
   border-radius: 10px;
 }
+
+.footer_content {
+  width: 60%;
+  margin: 0 auto;
+  background-color: white;
+  border-radius: 5px;
+  border-top: 1px solid lightgrey;
+  padding: 20px;
+  }
+
+  #email_text {
+    margin-left: 100px;
+    padding: 5px;
+  }
+
+  #btn_footer {
+    padding: 5px;
+    background-color: #0080ff;
+    color: white;
+    border-radius: 5px;
+    border-color: #0080ff;
+  }
